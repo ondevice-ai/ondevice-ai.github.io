@@ -23,7 +23,7 @@ navigation:
   - name: Home
     url: /
   - name: Blog
-    url: /archive
+    url: /blog
   - name: Tags
     url: /tags
   - name: About
