@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: On-device AI Blog
+name: AI & Vision on edge-device
 
 # Short bio or description (displayed in the header)
 description: On-device AI Engineer in Korea
@@ -13,7 +13,7 @@ description: On-device AI Engineer in Korea
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/fss_logo.png
+avatar: /images/site_logo.png
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
