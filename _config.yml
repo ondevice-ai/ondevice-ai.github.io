@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: FSSolution
+name: On-device AI Blog
 
 # Short bio or description (displayed in the header)
-description: On-device AI Compressor in Korea
+description: On-device AI Engineer in Korea
 
 #
 # Flags below are optional
@@ -37,10 +37,10 @@ paginate: 5
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email: devops@fssolution.co.kr
+  email: cpm.fslab@gmail.com
   facebook:
   flickr:
-  github: fspost
+  github: ondevice-ai
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -52,7 +52,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: © 2021 FSSolution, Co.
+footer-text: # © 2021 FSSolution, Co.
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -63,7 +63,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://fspost.github.io/ #
+url: https://ondevice-ai.github.io/ #
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
